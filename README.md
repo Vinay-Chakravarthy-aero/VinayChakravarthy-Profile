@@ -31,12 +31,13 @@ ___
 
 ___
 
-## 🏆 Key Projects
+## 🏆 Key Projects 
 
-### 1. High-Lift Wing CFD Simulation – AIRBUS WINDY Project
+### 1. High-Lift Wing CFD Simulation – AIRBUS WINDY Project 
 - **Objective:** Performed unsteady CFD simulations on a multi-element NEXUS wing to analyze high-lift performance.  
 - **Techniques:** DDES and IDDES models in ANSYS Fluent, structured meshing in ICEM, unsteady post-processing.  
 - **Outcome:** Accurately predicted vortex structures and unsteady lift behavior; findings aligned with industry standards for high-lift configurations.
+  
 
 ### 2. Aerodynamic Efficiency Enhancement of Flap Design
 - **Role:** Research Intern at Simulation Lab Pvt. Ltd.  
@@ -99,6 +100,23 @@ ___
 
 ___
 
+## 🛠️ GitHub Repositories (coming up !!)
+
+| Repository | Description |
+|:----------:|:-----------:|
+| 🔹 [**High-Lift Wing Simulation – AIRBUS WINDY Project**](https://github.com/vinaychakravarthy/airbus-nexus-highlift-cfd) | - Unsteady CFD simulations of a NEXUS wing using DDES/IDDES. Includes mesh setup and lift/drag post-processing. |
+| 🔹 [**Battery Thermal Management using Nanofluids**](https://github.com/vinaychakravarthy/battery-cooling-nanofluids) | - Evaluates CuO–water nanofluids for cooling batteries under transient conditions. |
+| 🔹 [**Drone Wing Structural and Aerodynamic Analysis**](https://github.com/vinaychakravarthy/drone-wing-simulation) | - FEA and CFD for UAV wing and propeller using ANSYS, XFLR5. Includes CAD and simulations. |
+| 🔹 [**Rocket Design and Re-entry Trajectory Simulation**](https://github.com/vinaychakravarthy/rocket-trajectory-design) | - Multi-stage rocket and re-entry modeling using MATLAB and SOLIDWORKS. |
+| 🔹 [**Wind Turbine FSI Study**](https://github.com/vinaychakravarthy/wind-turbine-fsi) | - Blade deformation via fluid-structure interaction. Includes pressure & stress plots. |
+| 🔹 [**Feature-Based CFD Study on Flap**](https://github.com/vinaychakravarthy/flap-feature-cfd) | - CFD of aerodynamic flap features at varying speeds and angles. |
+| 🔹 [**UAV Design and Flight Performance Evaluation**](https://github.com/vinaychakravarthy/uav-design-performance) | - UAV design and flight simulation using SOLIDWORKS & MATLAB. |
+| 🔹 [**Advanced CFD Techniques for Aerospace Applications**](https://github.com/vinaychakravarthy/cfd-aerospace-modeling) | - Turbulence modeling via FDM/FVM for high-speed aerospace flows. |
+| 🔹 [**Structural and Thermal Simulation of Aerospace Materials**](https://github.com/vinaychakravarthy/material-stress-analysis) | - ANSYS-based stress testing of aerospace composites. |
+| 🔹 [**2D FEM Analysis of Truss Structures – MATLAB**](https://github.com/vinaychakravarthy/2d-fem-truss-matlab) | - MATLAB-based FEM analysis of 2D truss structures with plots and code. |
+
+___
+
 ## 📬 Let’s Connect!
 
 
@@ -114,12 +132,5 @@ I'm always enthusiastic about exploring and discussing the latest advancements i
 </a>
 
 ___
-
-
-
-
-
-
-
 
 
