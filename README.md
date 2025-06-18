@@ -3,7 +3,7 @@
 
 Hi there! I’m Vinay Chakravarthy. I’m an Aerospace Engineer with a strong passion for **Aerodynamics, Computational Fluid Dynamics, and Aerospace Innovation**. I hold an MSc in Aerospace Dynamics from **Cranfield University**, where I conducted unsteady CFD simulations on a multi-element high-lift wing (AIRBUS WINDY Project) using **DDES and IDDES**. I specialize in Aerospace Dynamics and Computational Fluid Dynamics (CFD), with practical experience in high-fidelity simulations, structural analysis, and flight performance evaluation. 
 
-- 🌍 Based in UK with global project exposure  
+- 🌍 Based in UK & INDIA with global project exposure  
 - 🚀 Actively seeking roles in **CFD, Aerodynamics**, and aerospace research & development  
 - 💬 Let’s connect and collaborate on exciting problems in **fluid dynamics, propulsion, and aircraft systems** 
 
@@ -102,7 +102,7 @@ ___
 ## 📬 Let’s Connect!
 
 
-✈️ I'm always enthusiastic about exploring and discussing the latest advancements in the **aerospace industry**, **CFD simulation**, **aerodynamic design**, **structural analysis**, and **propulsion systems**. 
+I'm always enthusiastic about exploring and discussing the latest advancements in the **aerospace industry** ✈️,  **CFD simulation**, **aerodynamic design**, **structural analysis**, and **propulsion systems**. 
 💬 Let's connect and share ideas!
 
 <a href="https://www.linkedin.com/in/vinay-chakravarthy" target="_blank">
