@@ -123,7 +123,7 @@ ___
 I'm always enthusiastic about exploring and discussing the latest advancements in the **aerospace industry** ✈️,  **CFD simulation**, **aerodynamic design**, **structural analysis**, and **propulsion systems**. 
 💬 Let's connect and share ideas!
 
-<a href="https://www.linkedin.com/in/vinay-chakravarthy" target="_blank">
+<a href="https://www.linkedin.com/in/vinaychakravarthy/" target="_blank">
   <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/>
 </a>
 &nbsp;&nbsp;
